@@ -1,8 +1,8 @@
 <h1>Hi, I'm Mohamed! <br/><a 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Actice Directory (HomeLab)</b>
+  - [AD HomeLab](https://github.com/goubx/Active-Directory-Lab)
 
 <h2> 📃 Certifications </h2>
 
