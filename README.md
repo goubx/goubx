@@ -1,7 +1,7 @@
 <h1>Hi, I'm Mohamed! <br/><a 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- <b> Vulnerability Management using Tenable 
+- <b> [Vulnerability Management using Tenable](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io)
   - [Authenticated and Unauthenticated Scans on Windows](https://github.com/goubx/Tenable-Scanning-Windows-Authenticated-vs-Unauthenticated)
   - [Authenticated and Unauthenticated Scans on Linux](https://github.com/goubx/Authenticated-and-Unauthenticated-scans-on-Linux)
   - [Using a DISA STIG Scan Template](https://github.com/goubx/Using-a-DISA-STIG-Scan-Template)
