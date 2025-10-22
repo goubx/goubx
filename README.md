@@ -5,9 +5,13 @@
   - [Authenticated and Unauthenticated Scans on Windows](https://github.com/goubx/Tenable-Scanning-Windows-Authenticated-vs-Unauthenticated)
   - [Authenticated and Unauthenticated Scans on Linux](https://github.com/goubx/Authenticated-and-Unauthenticated-scans-on-Linux)
   - [Using a DISA STIG Scan Template](https://github.com/goubx/Using-a-DISA-STIG-Scan-Template)
-- <b>Actice Directory (HomeLab)</b>
-  - [AD HomeLab](https://github.com/goubx/Active-Directory-Lab)
+  - Agent-Based Monitoring: Windows
+  - Agent-Based Monitoring: Linux
+  - Vulnerability Recasting and Exceptions
+  - Discovery Scan: Entire Cyber Range Subnet
 
+- <b> Active Directory (HomeLab)</b>
+  - [AD HomeLab](https://github.com/goubx/Active-Directory-Lab) 
 
 <h2> 📃 Certifications </h2>
 
