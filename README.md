@@ -4,6 +4,7 @@
 - <b> Vulnerability Management using Tenable 
   - [Authenticated and Unauthenticated Scans on Windows](https://github.com/goubx/Tenable-Scanning-Windows-Authenticated-vs-Unauthenticated)
   - [Authenticated and Unauthenticated Scans on Linux](https://github.com/goubx/Authenticated-and-Unauthenticated-scans-on-Linux)
+  - [Using a DISA STIG Scan Template](https://github.com/goubx/Using-a-DISA-STIG-Scan-Template)
 - <b>Actice Directory (HomeLab)</b>
   - [AD HomeLab](https://github.com/goubx/Active-Directory-Lab)
 
