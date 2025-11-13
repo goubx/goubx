@@ -7,7 +7,7 @@
   - [Using a DISA STIG Scan Template](https://github.com/goubx/Using-a-DISA-STIG-Scan-Template)
   - [Agent-Based Monitoring: Windows](https://github.com/goubx/Agent-Based-Monitoring-Windows)
   - [Agent-Based Monitoring: Linux](https://github.com/goubx/Agent-Based-Monitoring-Linux/tree/main)
-  - Discovery Scan: Entire Cyber Range Subnet
+  - [Discovery Scan: Entire Cyber Range Subnet](https://github.com/goubx/Discovery-Scan-Entire-Subnet-Scan)
 
 - <b> Active Directory (HomeLab)</b>
   - [AD HomeLab](https://github.com/goubx/Active-Directory-Lab) 
