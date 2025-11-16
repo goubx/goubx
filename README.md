@@ -21,6 +21,8 @@
 
 - <b>[Security +](https://www.credly.com/badges/e3bbfde4-b9de-4680-890f-ccc680345514/public_url)</b>
 
+- <b>[Project +](https://www.credly.com/badges/b036b80e-5f7d-4c6d-8291-5f543019ccd8/public_url)</b>
+
 
 
 <h2>📺 Check out my Blog!</h2>
