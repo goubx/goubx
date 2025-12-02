@@ -9,6 +9,7 @@
   - [Agent-Based Monitoring: Linux](https://github.com/goubx/Agent-Based-Monitoring-Linux/tree/main)
   - [Discovery Scan: Entire Cyber Range Subnet](https://github.com/goubx/Discovery-Scan-Entire-Subnet-Scan)
   - [Manual Vulnerability Remediation on Windows](https://github.com/goubx/Manual-Vulnerability-Remediation-on-Windows)
+  - [Manual Vulnerability Remediation on Linux](https://github.com/goubx/Manual-Vulnerability-Remediation-on-Linux)
 
 - <b> Active Directory (HomeLab)</b>
   - [AD HomeLab](https://github.com/goubx/Active-Directory-Lab) 
