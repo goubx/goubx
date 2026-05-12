@@ -22,7 +22,14 @@
 
 - <b>[Security +](https://www.credly.com/badges/e3bbfde4-b9de-4680-890f-ccc680345514/public_url)</b>
 
+- <b>[CySA +](https://www.credly.com/earner/earned/badge/93209acd-6e72-48f9-a715-5bbe4e7b58ae)</b>
+
+- <b>[Pentest +](https://www.credly.com/earner/earned/badge/3cc6372c-fc38-47b5-bce6-c773825a0ce5)</b>
+
 - <b>[Project +](https://www.credly.com/badges/b036b80e-5f7d-4c6d-8291-5f543019ccd8/public_url)</b>
+
+
+
 
 
 
