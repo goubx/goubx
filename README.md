@@ -12,8 +12,9 @@
   - [Manual Vulnerability Remediation on Linux](https://github.com/goubx/Manual-Vulnerability-Remediation-on-Linux)
   - [Programmatic Remediation in Windows PowerShell](https://github.com/goubx/Programmatic-Remediation-in-Windows-PowerShell-)
 
-- <b> Active Directory (HomeLab)</b>
-  - [AD HomeLab](https://github.com/goubx/Active-Directory-Lab) 
+- <b> [100 Days worth of Code (Python Focused)](https://github.com/goubx/100-Days-of-Code) 
+
+- <b> [Active Directory (HomeLab)](https://github.com/goubx/Active-Directory-Lab)</b>
 
 <h2> 📃 Certifications </h2>
 
