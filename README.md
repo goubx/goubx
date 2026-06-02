@@ -10,6 +10,7 @@
   - [Discovery Scan: Entire Cyber Range Subnet](https://github.com/goubx/Discovery-Scan-Entire-Subnet-Scan)
   - [Manual Vulnerability Remediation on Windows](https://github.com/goubx/Manual-Vulnerability-Remediation-on-Windows)
   - [Manual Vulnerability Remediation on Linux](https://github.com/goubx/Manual-Vulnerability-Remediation-on-Linux)
+  - [Programmatic Remediation in Windows PowerShell](https://github.com/goubx/Programmatic-Remediation-in-Windows-PowerShell-)
 
 - <b> Active Directory (HomeLab)</b>
   - [AD HomeLab](https://github.com/goubx/Active-Directory-Lab) 
