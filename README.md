@@ -1,16 +1,7 @@
 <h1>Hi, I'm Mohamed! <br/><a 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- <b> [Vulnerability Management using Tenable](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io)
-  - [Authenticated and Unauthenticated Scans on Windows](https://github.com/goubx/Tenable-Scanning-Windows-Authenticated-vs-Unauthenticated)
-  - [Authenticated and Unauthenticated Scans on Linux](https://github.com/goubx/Authenticated-and-Unauthenticated-scans-on-Linux)
-  - [Using a DISA STIG Scan Template](https://github.com/goubx/Using-a-DISA-STIG-Scan-Template)
-  - [Agent-Based Monitoring: Windows](https://github.com/goubx/Agent-Based-Monitoring-Windows)
-  - [Agent-Based Monitoring: Linux](https://github.com/goubx/Agent-Based-Monitoring-Linux/tree/main)
-  - [Discovery Scan: Entire Cyber Range Subnet](https://github.com/goubx/Discovery-Scan-Entire-Subnet-Scan)
-  - [Manual Vulnerability Remediation on Windows](https://github.com/goubx/Manual-Vulnerability-Remediation-on-Windows)
-  - [Manual Vulnerability Remediation on Linux](https://github.com/goubx/Manual-Vulnerability-Remediation-on-Linux)
-  - [Programmatic Remediation in Windows PowerShell](https://github.com/goubx/Programmatic-Remediation-in-Windows-PowerShell-)
+- <b> [Vulnerability Management using Tenable (mini series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io)
 
 - <b> [100 Days worth of Code (Python Focused)](https://github.com/goubx/100-Days-of-Code) 
 
@@ -29,10 +20,6 @@
 - <b>[Pentest +](https://www.credly.com/earner/earned/badge/3cc6372c-fc38-47b5-bce6-c773825a0ce5)</b>
 
 - <b>[Project +](https://www.credly.com/badges/b036b80e-5f7d-4c6d-8291-5f543019ccd8/public_url)</b>
-
-
-
-
 
 
 <h2>📺 Check out my Blog!</h2>
