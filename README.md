@@ -1,11 +1,18 @@
 <h1>Hi, I'm Mohamed! <br/><a 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-- <b> [Vulnerability Management using Tenable (mini series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io)
+- <b> [Tenable Vulnerability Management Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
 
-- <b> [100 Days worth of Code (Python Focused)](https://github.com/goubx/100-Days-of-Code) 
+  A structured Tenable.io lab series covering scanning, remediation, agent based monitoring, and validation.
 
-- <b> [Active Directory (HomeLab)](https://github.com/goubx/Active-Directory-Lab)</b>
+- <b> [100 Days worth of Code (Python Focused)](https://github.com/goubx/100-Days-of-Code)
+
+  Python learning repository focused on scripting fundamentals, problem solving, and automation.
+
+
+- <b> [Active Directory (HomeLab)](https://github.com/goubx/Active-Directory-Lab)
+
+  Windows Server Active Directory lab focused on users, groups, permissions, shared folders, and system administration.
 
 <h2> 📃 Certifications </h2>
 
