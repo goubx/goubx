@@ -3,9 +3,9 @@
 
 - <b> [Tenable Vulnerability Management Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
 
-  A structured Tenable.io lab series covering scanning, remediation, agent based monitoring, and validation.
+  A structured Tenable.io lab series covering scanning, remediation, agent-based monitoring, and validation.
 
-- <b> [100 Days worth of Code (Python Focused)](https://github.com/goubx/100-Days-of-Code)
+- <b> [100 Days of Code (Python Focused)](https://github.com/goubx/100-Days-of-Code)
 
   Python learning repository focused on scripting fundamentals, problem solving, and automation.
 
@@ -16,17 +16,17 @@
 
 <h2> 📃 Certifications </h2>
 
-- <b>[A+](https://www.credly.com/badges/2e924c1a-0487-4b4d-b0a0-a002d08d60cf/public_url)</b>
+- <b>[CompTIA A+](https://www.credly.com/badges/2e924c1a-0487-4b4d-b0a0-a002d08d60cf/public_url)</b>
 
-- <b>[Network +](https://www.credly.com/badges/f2ae86bb-da64-4016-b42f-2db2b4f8cac2/public_url)</b> 
+- <b>[CompTIA Network +](https://www.credly.com/badges/f2ae86bb-da64-4016-b42f-2db2b4f8cac2/public_url)</b> 
 
-- <b>[Security +](https://www.credly.com/badges/e3bbfde4-b9de-4680-890f-ccc680345514/public_url)</b>
+- <b>[CompTIA Security +](https://www.credly.com/badges/e3bbfde4-b9de-4680-890f-ccc680345514/public_url)</b>
 
-- <b>[CySA +](https://www.credly.com/earner/earned/badge/93209acd-6e72-48f9-a715-5bbe4e7b58ae)</b>
+- <b>[CompTIA CySA +](https://www.credly.com/earner/earned/badge/93209acd-6e72-48f9-a715-5bbe4e7b58ae)</b>
 
-- <b>[Pentest +](https://www.credly.com/earner/earned/badge/3cc6372c-fc38-47b5-bce6-c773825a0ce5)</b>
+- <b>[CompTIA PenTest +](https://www.credly.com/earner/earned/badge/3cc6372c-fc38-47b5-bce6-c773825a0ce5)</b>
 
-- <b>[Project +](https://www.credly.com/badges/b036b80e-5f7d-4c6d-8291-5f543019ccd8/public_url)</b>
+- <b>[CompTIA Project +](https://www.credly.com/badges/b036b80e-5f7d-4c6d-8291-5f543019ccd8/public_url)</b>
 
 
 <h2>📺 Check out my Blog!</h2>
