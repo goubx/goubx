@@ -1,4 +1,8 @@
-<h1>Hi, I'm Mohamed! <br/><a 
+## Hi, I'm Mohamed! 
+
+## I'm a cybersecurity graduate focused on vulnerability management, system hardening, security automation, and hands on lab work. I use GitHub to document my cybersecurity labs, Python learning, and technical projects as I continue building toward security analyst, vulnerability management, and security engineering roles.
+
+                            
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b> [Tenable Vulnerability Management Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
