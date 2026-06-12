@@ -13,6 +13,10 @@
 
   A structured Tenable.io lab series covering scanning, remediation, agent-based monitoring, and validation.
 
+- <b> [🚨 Threat Hunting and Security Operations](https://github.com/goubx/Threat-Hunting-and-Security-Operations)
+
+  Hands-on threat hunting labs and SOC investigations run through Microsoft Defender for Endpoint and Microsoft Sentinel.
+  
 - <b> [100 Days of Code (Python Focused)](https://github.com/goubx/100-Days-of-Code)
 
   Python learning repository focused on scripting fundamentals, problem solving, and automation.
