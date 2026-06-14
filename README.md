@@ -13,7 +13,7 @@
 
   Hands-on threat hunting labs and SOC investigations run through Microsoft Defender for Endpoint and Microsoft Sentinel.
 
-- <b> [Tenable Vulnerability Management Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
+- <b> [Tenable Vulnerability Management (Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
 
   A structured Tenable.io lab series covering scanning, remediation, agent-based monitoring, and validation.
   
