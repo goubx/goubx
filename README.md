@@ -9,13 +9,13 @@
 
   Simulated the implementation of a comprehensive vulnerability management program, from the initial planning phase all the way to completion.
 
-- <b> [Tenable Vulnerability Management Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
-
-  A structured Tenable.io lab series covering scanning, remediation, agent-based monitoring, and validation.
-
 - <b> [🚨 Threat Hunting and Security Operations](https://github.com/goubx/Threat-Hunting-and-Security-Operations)
 
   Hands-on threat hunting labs and SOC investigations run through Microsoft Defender for Endpoint and Microsoft Sentinel.
+
+- <b> [Tenable Vulnerability Management Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
+
+  A structured Tenable.io lab series covering scanning, remediation, agent-based monitoring, and validation.
   
 - <b> [100 Days of Code (Python Focused)](https://github.com/goubx/100-Days-of-Code)
 
