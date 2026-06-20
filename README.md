@@ -1,6 +1,5 @@
 ## Hi, I'm Mohamed! 
-
-## I'm a cybersecurity graduate focused on vulnerability management, system hardening, security automation, and hands on lab work. I use GitHub to document my cybersecurity labs, Python learning, and technical projects as I continue building toward security analyst, vulnerability management, and security engineering roles.
+## Cybersecurity professional focused on vulnerability management, system hardening, security automation, and hands-on lab work. I use GitHub to document my cybersecurity labs, Python learning, and technical projects as I build toward security analyst, vulnerability management, and security engineering roles.
 
                             
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
@@ -9,7 +8,11 @@
 
   Simulated the implementation of a comprehensive vulnerability management program, from the initial planning phase all the way to completion.
 
-- <b> [🚨 Threat Hunting and Security Operations](https://github.com/goubx/Threat-Hunting-and-Security-Operations)
+- <b> [🚨 Full Threat Hunting Scenario - Unauthorized Tor Usage](https://github.com/goubx/Threat-hunting-unauthorized-Tor-usage)
+
+  Detected unauthorized TOR browser install and use on a workstation with Microsoft Defender for Endpoint and KQL, tracing file, process, and network evidence into a full timeline mapped to MITRE ATT&CK.
+
+- <b> [ Threat Hunting and Security Operations(Lab Series)](https://github.com/goubx/Threat-Hunting-and-Security-Operations)
 
   Hands-on threat hunting labs and SOC investigations run through Microsoft Defender for Endpoint and Microsoft Sentinel.
 
