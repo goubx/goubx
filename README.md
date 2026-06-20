@@ -12,11 +12,11 @@
 
   Detected unauthorized TOR browser install and use on a workstation with Microsoft Defender for Endpoint and KQL, tracing file, process, and network evidence into a full timeline mapped to MITRE ATT&CK.
 
-- <b> [ Threat Hunting and Security Operations(Lab Series)](https://github.com/goubx/Threat-Hunting-and-Security-Operations)
+- <b> [🧪 Threat Hunting and Security Operations(Lab Series)](https://github.com/goubx/Threat-Hunting-and-Security-Operations)
 
   Hands-on threat hunting labs and SOC investigations run through Microsoft Defender for Endpoint and Microsoft Sentinel.
 
-- <b> [Tenable Vulnerability Management (Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
+- <b> [🧪 Tenable Vulnerability Management (Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
 
   A structured Tenable.io lab series covering scanning, remediation, agent-based monitoring, and validation.
   
