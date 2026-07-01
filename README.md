@@ -19,12 +19,11 @@
 - <b> [🧪 Tenable Vulnerability Management (Lab Series)](https://github.com/goubx/Vulnerability-Mangement-w-Tenable.io) 
 
   A structured Tenable.io lab series covering scanning, remediation, agent-based monitoring, and validation.
+
+- <b> [🛡️ DISA STIG Implementation with PowerShell (Lab Series)](https://github.com/goubx/DISA-STIG-Implementation-w-PowerShell-series-)
+
+  PowerShell-driven remediation of DISA STIG findings on Windows 11. Each entry takes a real Tenable scan failure on a stock Azure VM and walks through hardening it end to end: identify, remediate, rescan, document.
   
-- <b> [100 Days of Code (Python Focused)](https://github.com/goubx/100-Days-of-Code)
-
-  Python learning repository focused on scripting fundamentals, problem solving, and automation.
-
-
 - <b> [Active Directory (HomeLab)](https://github.com/goubx/Active-Directory-Lab)
 
   Windows Server Active Directory lab focused on users, groups, permissions, shared folders, and system administration.
