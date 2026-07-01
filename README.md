@@ -23,10 +23,6 @@
 - <b> [🛡️ DISA STIG Implementation with PowerShell (Lab Series)](https://github.com/goubx/DISA-STIG-Implementation-w-PowerShell-series-)
 
   PowerShell-driven remediation of DISA STIG findings on Windows 11. Each entry takes a real Tenable scan failure on a stock Azure VM and walks through hardening it end to end: identify, remediate, rescan, document.
-  
-- <b> [Active Directory (HomeLab)](https://github.com/goubx/Active-Directory-Lab)
-
-  Windows Server Active Directory lab focused on users, groups, permissions, shared folders, and system administration.
 
 <h2> 📃 Certifications </h2>
 
